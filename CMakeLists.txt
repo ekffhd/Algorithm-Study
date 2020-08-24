@@ -3,4 +3,4 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(untitled queue_link.c)
+add_executable(untitled  stack_list.c)
